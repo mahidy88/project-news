@@ -1,0 +1,111 @@
+body{
+    margin:0;
+    padding:0
+}
+.navbar{
+    background: lightcoral;
+}
+.nav-link{
+    font-weight: bold;
+    font-family: 'Otomanopee One', sans-serif;
+
+}
+.para{
+    font-family: 'Staatliches', cursive;
+    font-size: 20px;
+}
+.dropdown-item{
+    font-weight: bold;
+}
+.search-bar{
+ 
+    background:black;
+    padding:5px;
+    border-radius: 6px;
+    width:400px;
+    
+}
+input{
+    background: black;
+    border:1px black;
+    outline:none;
+    float:left;
+    width:360px;
+    padding:0 3px;
+    margin-right: 5px;
+    color:crimson
+}
+.search-icon i{
+    color:crimson
+}
+.nav-link{
+    text-align: center;
+}
+.nav-item{
+    margin-right:10px;
+    padding-left:20px;
+    background: rgb(224, 49, 84);
+    border-radius: 5px;
+    border:1px solid black;
+    
+}
+.nav-item:hover{
+    background:palevioletred;
+    transition: 0.3s;
+}
+.navbar-brand img{
+    border-radius: 6px;
+}
+.dropdown-menu{
+    background: none;
+    border:none
+}
+.dropdown-item{
+    background:lightpink;
+    border-radius: 5px;
+    border:1px solid black;
+    text-align: center;
+}
+.dropdown-item:hover{
+    background: rgb(82, 231, 231);
+}
+
+.accordion-button{
+    color:black
+}
+
+.breadcrumb-item{
+    color:crimson;
+    font-weight: bold;
+    
+}
+.breadcrumb-item a{
+    color:crimson;
+    
+}
+b{
+    font-size: 35px;
+    font-weight: 400;
+}
+.btn{
+    padding:1px;
+    float:right;
+    color:black
+}
+.form{
+    color:cadetblue;
+    text-align: center;
+    margin:10px;
+}
+.button{
+    border:none;
+    border: 1px solid crimson;
+    background: black;
+    border-radius: 6px;
+    color:crimson;
+    width:100px;
+    
+}
+.form-control{
+    background: paleturquoise;
+}
